@@ -1,1 +1,2 @@
-# esa-github-workshop-2024
+# ESA GitHub Workshop (2024) Website
+
