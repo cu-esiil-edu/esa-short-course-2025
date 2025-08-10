@@ -1,4 +1,4 @@
 title: ESA Short Course (2025) Webpage
 description: Check out our personal webpages!
 logo: https://esiil.org/sites/default/files/ESIIL_logo.png
-remote_theme: just-the-docs/just-the-docs@0.10.1
+theme: just-the-docs
